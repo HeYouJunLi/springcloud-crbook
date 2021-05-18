@@ -9,4 +9,4 @@ zuul:
   routes:
     default:
       path: /**
-      serviceId: crbook-zuul
+      serviceId: crbook-index
